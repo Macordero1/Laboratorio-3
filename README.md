@@ -13,15 +13,20 @@
 
 ### **Objetivo General**
 
-*
+* Aplicar la ley de corriente de Kirchhoff para el nodo restante y calcular los voltajes de un circuito armado.
 
 ### **Objetivos Especificos** 
+
+* Determinar los voltajes de los nodos que se presentan en el circuito mediante la utilizacion de un circuito simulado en Tinkercad
+* Calcular el margen de error que se presente comparando un circuito armado y uno simulado
 
 ## **3.2. Requisitos Previos**
 
 Se requiere el análisis analítico del circuito mostrado en la figura 3.1., mediante la técnica del análisis de nodos. El valor obtenido de cada voltaje de nodo anótelo en la tabla 3.1.
 
 ## **3.3. Información General**
+
+![image](https://user-images.githubusercontent.com/105742149/172032805-b539aed6-131b-47c7-be59-9467664d014c.png)
 
 ## **3.4. Material y Equipo requerido**
 
@@ -57,3 +62,6 @@ Se requiere el análisis analítico del circuito mostrado en la figura 3.1., med
 Se llego a la conclusión que en la toma de cálculo primer nodo hay una variacion del 3% mientras que en el segundo nodo hay un margen de error del 4% esto debido a la variacion de voltaje que se presenta en la practica  
 
 ## **Bibliografía**
+
+McAllister, W. (5 de Diciembre de 2018). Khan Academy. Obtenido de https://es.khanacademy.org/science/electrical-engineering/ee-circuit-analysis-topic/ee-dc-circuit-analysis/a/ee-node-voltage-method
+
