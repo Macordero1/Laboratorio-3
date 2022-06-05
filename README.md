@@ -13,6 +13,8 @@
 
 ### **Objetivo General**
 
+*
+
 ### **Objetivos Especificos** 
 
 ## **3.2. Requisitos Previos**
@@ -34,10 +36,24 @@ Se requiere el análisis analítico del circuito mostrado en la figura 3.1., med
 
 *Figura 3.1 Circuito para el análisis de nodos.*
 
+![image](https://user-images.githubusercontent.com/105742149/172031925-4b8f7e22-4095-4580-8fd2-1585ce234bb8.png)
+
+*Circuito Armado*
+
+![image](https://user-images.githubusercontent.com/105742149/172031896-ec9b9a07-1ddf-48c7-af75-e23ede52311d.png)
+
+*Circuito Simulado*
+
 ### **3.5.2. Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.**
+
+
 
 ### **3.5.3. Simule en el software Thinkercad, el circuito de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en la tabla 3.1.**
 
+![image](https://user-images.githubusercontent.com/105742149/172031877-56eab59a-2a97-446e-b0b2-452cb3c0f224.png)
+
 ### **3.5.4. Compare los valores de la tabla 3.1 y realice sus conclusiones.**
-### **3.5.5 Calcular errores de las mediciones y comentar los resultados.**
+
+Se llego a la conclusión que en la toma de cálculo primer nodo hay una variacion del 3% mientras que en el segundo nodo hay un margen de error del 4% esto debido a la variacion de voltaje que se presenta en la practica  
+
 ## **Bibliografía**
