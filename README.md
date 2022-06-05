@@ -30,7 +30,7 @@ Se requiere el análisis analítico del circuito mostrado en la figura 3.1., med
 
 ## **3.4. Material y Equipo requerido**
 
-![image](https://user-images.githubusercontent.com/105742149/172034415-49a8874f-88de-4aab-98fa-9b4bc5e100f8.png)
+![image](https://user-images.githubusercontent.com/105742149/172034431-efa7d6b4-1a3e-4d52-8ba8-79357cb7c133.png)
 
 ![image](https://user-images.githubusercontent.com/105742149/172031147-20580977-ddf6-4a8a-8b99-49fc6f280aaa.png)
 
