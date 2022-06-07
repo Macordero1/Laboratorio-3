@@ -63,7 +63,8 @@ Se requiere el análisis analítico del circuito mostrado en la figura 3.1., med
 
 ### **3.5.4. Compare los valores de la tabla 3.1 y realice sus conclusiones.**
 
-![imagen](https://user-images.githubusercontent.com/105812540/172329611-3d8c22b7-e2ac-4bec-b90a-66d24f30a3c1.png)
+![imagen](https://user-images.githubusercontent.com/105812540/172432589-046a10c5-542c-4999-92b5-4dd250f4804b.png)
+
 
 *Tabla 2.1*
 
