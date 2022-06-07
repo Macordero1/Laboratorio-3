@@ -59,6 +59,11 @@ Se requiere el análisis analítico del circuito mostrado en la figura 3.1., med
 
 ### **3.5.4. Compare los valores de la tabla 3.1 y realice sus conclusiones.**
 
+
+
+
+# Conclusión
+
 Se llego a la conclusión que en la toma de cálculo primer nodo hay una variacion del 3% mientras que en el segundo nodo hay un margen de error del 4% esto debido a la variacion de voltaje que se presenta en la practica  
 
 ## **Bibliografía**
