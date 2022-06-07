@@ -49,6 +49,12 @@ Se requiere el análisis analítico del circuito mostrado en la figura 3.1., med
 
 *Circuito Simulado*
 
+![1](https://user-images.githubusercontent.com/105742149/172408991-cb7aa1f9-07a6-4f1c-a8f2-2905ff0c4d20.jpeg)
+
+![2](https://user-images.githubusercontent.com/105742149/172409643-49d244f1-6b61-4fd5-a1a6-cd018fdc77b5.jpeg)
+
+*Tomas de medida experimentales*
+
 ### **3.5.2. Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.**
 
 ### **3.5.3. Simule en el software Thinkercad, el circuito de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en la tabla 3.1.**
